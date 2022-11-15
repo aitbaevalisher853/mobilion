@@ -1,0 +1,63 @@
+body{
+    background-color: #0d1117;
+    /* /* background: url(https://oir.mobi/uploads/posts/2021-06/1623683460_1-oir_mobi-p-zadnii-fon-priroda-priroda-krasivo-foto-1.jpg); */
+} 
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.content {
+    position: fixed;
+    bottom: 80px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 40%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.containerX1{
+    margin: 180px 530px;
+    background-color:#2e3744 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+    
+    
+
+.account{
+   color: white;
+}
+
+
+
+.btn{
+    background-color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  border-radius: 4px;
+  color: #3c4043;
+  cursor: pointer;
+  font-family: arial,sans-serif;
+  font-size: 14px;
+  height: 36px;
+  line-height: 27px;
+  min-width: 54px;
+  padding: 0 16px;
+  text-align: center;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: pre;
+}
+
